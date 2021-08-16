@@ -34,13 +34,11 @@ Its code is based on State Machine strategy. **Please refer State Machine Diagra
 
 Code of this experiment (main.cpp) can be downloaded from this link
 
-[https://github.com/ErHarjeev/Oszi\_FunGen\_LogicAnalyzer](https://github.com/ErHarjeev/Oszi_FunGen_LogicAnalyzer)
+[https://github.com/ErHarjeev/Oszi\_FunGen\_LogicAnalyzer](https://github.com/ErHarjeev/Osci_Function_LogicAnalyzer)
 
 
 **Youtube Link**
 
 [https://www.youtube.com/watch?v=XRucpsSZX2s&feature=youtu.be](https://www.youtube.com/watch?v=XRucpsSZX2s&feature=youtu.be)
 
-**References**
 
-Engineers, L. M. (2019, December 13). Interface OLED graphic display module with Arduino. Last Minute Engineers. Retrieved July 10, 2020, from https://lastminuteengineers.com/oled-display-arduino-tutorial/
